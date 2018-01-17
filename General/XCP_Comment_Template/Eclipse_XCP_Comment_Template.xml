@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="org.eclipse.cdt.ui.text.templates.c" deleted="false" description="Measurment variable" enabled="true" name="xcp_meassurement">/**&#13;
+ * @XCP_Measurement&#13;
+ * @XCP_Comment &#13;
+ * @XCP_LowerLimit &#13;
+ * @XCP_UpperLimit&#13;
+ * @XCP_Discrete &#13;
+ * @XCP_MaxRefreshRate&#13;
+ * @XCP_PhysUnit&#13;
+ * @XCP_ConversionFunction&#13;
+ * @XCP_ReadWrite&#13;
+ */</template></templates>
