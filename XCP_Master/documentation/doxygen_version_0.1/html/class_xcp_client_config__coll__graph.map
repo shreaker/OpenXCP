@@ -1,0 +1,5 @@
+<map id="XcpClientConfig" name="XcpClientConfig">
+<area shape="rect" id="node2" href="$struct_xcp_client_config_1_1_session_status.html" title="XcpClientConfig::Session\lStatus" alt="" coords="17,5,189,47"/>
+<area shape="rect" id="node3" href="$struct_xcp_client_config_1_1_resource_protect_status.html" title="XcpClientConfig::Resource\lProtectStatus" alt="" coords="12,71,193,112"/>
+<area shape="rect" id="node4" href="$struct_xcp_client_config_1_1_is_supported.html" title="XcpClientConfig::IsSupported" alt="" coords="5,137,200,163"/>
+</map>
